@@ -1,12 +1,26 @@
 # Jobit
-Evidence Themes:
 
-QLD Datasets:
-Employment - Occupation / Profession
+Evidence Themes:
+Data Summary
+Region -      QLD
+Industry -    Aged Care
+Time Series - Past - Present Date > Predictive (to 2023)
+
+Data Details
+GIS - 
+SA4 Areas (QLD Specific as an example)
+Focus on mid point of area based upon Lat / Long
 
 Aus Datasets:
-SA4 Areas (QLD Specific as an example)
+Industry / Occupation Focus (Case Study) - Aged Care - filtered for QLD
 
-Industry / Occupation Focus (Case Study) - Aged Care
+QLD Specific:
+Employment - Occupation / Profession
+
+ATO Datasets:
+TBC
+
+UI / UX
+Whiteboarding - png files
 
 
