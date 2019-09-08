@@ -33,9 +33,15 @@ Source Code:
 Sourcefile: MobileGovHack19
 
 For the purposes of the POC, applications are secured with username / password and as such the user needs to be logged in:
+URL to login:
+https://dev.altus.net.au/govhack19/Login.aspx
+
 Username: Hackathon.User
 Password: Hackathon19
 This will enable access to the mobile app as well as the web portal
+
+Refer Video LoginJobitAppandWeb.mp4 for login / navigation details
+
 
 
 
