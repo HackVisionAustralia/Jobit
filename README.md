@@ -36,8 +36,9 @@ For the purposes of the POC, applications are secured with username / password a
 URL to login:
 https://dev.altus.net.au/govhack19/Login.aspx
 
-Username: Hackathon.User
-Password: Hackathon19
+Username: refer email to Jason Weigel to competition@govhack.org
+Password: refer email to Jason Weigel to competition@govhack.org
+
 This will enable access to the mobile app as well as the web portal
 
 To preview the mobile app direct, go here:
