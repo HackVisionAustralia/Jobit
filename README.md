@@ -16,12 +16,14 @@ Industry / Occupation Focus (Case Study) - Aged Care - filtered for QLD
 
 QLD Specific:
 Employment - Occupation / Profession
+Employment status by labour force region, Queensland, 1999–00 to 2017–18
 
 ATO Datasets:
 ATO - Income Data per region per year by ranking
 
 QLD Open Data API:
 https://www.data.qld.gov.au/dataset/training-organisations
+https://www.data.qld.gov.au/dataset/employment-status-labour-force-reg
 
 UI / UX
 Whiteboarding - png files
