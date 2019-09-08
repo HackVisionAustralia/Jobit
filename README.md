@@ -29,6 +29,12 @@ Whiteboarding - png files
 Project Task Kanban:
 https://trello.com/b/eTUJfIa6/hackvision-operations
 
+Source Code:
+For the purposes of the POC, applications are secured with username / password and as such the user needs to be logged in:
+Username: Hackathon.User
+Password: Hackathon19
+This will enable access to the mobile app as well as the web portal
+
 
 
 
