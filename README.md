@@ -40,9 +40,8 @@ Username: Hackathon.User
 Password: Hackathon19
 This will enable access to the mobile app as well as the web portal
 
+To preview the mobile app direct, go here:
+https://dev.altus.net.au/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/MobileGovHack19/HomeScreen
+
 Refer Video LoginJobitAppandWeb.mp4 for login / navigation details
-
-
-
-
 
