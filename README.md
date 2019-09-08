@@ -23,4 +23,9 @@ TBC
 UI / UX
 Whiteboarding - png files
 
+Project Task Kanban:
+https://trello.com/b/eTUJfIa6/hackvision-operations
+
+
+
 
